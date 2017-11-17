@@ -1,0 +1,14 @@
+/build.xml
+/target
+/build
+/bin
+/dist
+/manifest.mf
+/.DS_Store
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+*.DS_Store
